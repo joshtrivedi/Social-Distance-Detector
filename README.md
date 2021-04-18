@@ -1,7 +1,7 @@
 # Social-distance-detection
-### You can find the video with full expanation of algrithm & code here: (https://youtu.be/PTLZnE6W2tw)
 
-#### Github usually doesn't support files larger than 25 Mb.You can find the yolo weights in [My google drive](https://drive.google.com/file/d/1QrGGrZl-K2z9IH410o9oeGvbKdIDjGIS/view?usp=sharing) 
+
+#### Github usually doesn't support files larger than 25 Mb. You can find the yolo weights in [My google drive](https://drive.google.com/file/d/1QrGGrZl-K2z9IH410o9oeGvbKdIDjGIS/view?usp=sharing) 
 * Download it & move to yolo-coco folder
 
 # For CPU:
@@ -19,13 +19,12 @@
 ` ***to run your social distance detection project***
 
 #### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
-![Output avi gif](https://github.com/abd-shoumik/Social-distance-detection/blob/master/social%20distance%20detection.gif)
+![Output avi gif](https://github.com/joshtrivedi/Social-Distance-Detector/blob/master/social%20distance%20detection.gif)
 
 # For GPU:
-You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/13IzdPCsAo4L613cmBEmrtM-NgSvMukb-?usp=sharing)
+You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/1fl7pOz_gx70KcsF8isMPagZL1TSv0dKr?usp=sharing)
 
 ## Contacts:
-* **Created by:[Abdullah Shoumik](https://github.com/abd-shoumik)**
-* **Email:[abd.shoumik@gmail.com](https://abd.shoumik@gmail.com)**
-* **Youtube:[TheLazyCoder](https://youtube.com/channel/UCWjx_FKjjfjAL-wtSi-iS4g)**
-* **LinkedIn: [Abdullah Shoumik](https://www.linkedin.com/in/abdullah-shoumik-7a0b36135/)**
+* **Created by:[Abdullah Shoumik](https://github.com/joshtrivedi)**
+* **Email:[abd.shoumik@gmail.com](https://josh.trivedi@gmail.com)**
+* **LinkedIn: [Abdullah Shoumik](https://www.linkedin.com/in/josh-trivedi/)**
