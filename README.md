@@ -1,14 +1,14 @@
 # Social-distance-detection
 
 
-#### Github usually doesn't support files larger than 25 Mb. You can find the yolo weights in [My google drive](https://drive.google.com/file/d/1QrGGrZl-K2z9IH410o9oeGvbKdIDjGIS/view?usp=sharing) 
+#### Github usually doesn't support files larger than 25 Mb. You can find the yolo weights in [My google drive](https://drive.google.com/file/d/1OZlwB0UELk4-5HGmqLoymIOKQoeIkjuz/view?usp=sharing) 
 * Download it & move to yolo-coco folder
 
-# For CPU:
-
+# Instructions
 ## To run this code in your terminal:
 * ***Open your terminal**
 * ***Change directory to where you have downloaded this code***
+* **Run** ` cd your-files-location-here`
 * ***Install python3 if you have not, if installed already then it's ok!***
 * **Run**  `  python3 -m venv venv  ` ***to create a virtual environment named venv.***
 * **Run**   `  source venv/bin/activate  ` 
