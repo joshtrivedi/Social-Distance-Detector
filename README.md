@@ -19,7 +19,7 @@
 ` ***to run your social distance detection project***
 
 #### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
-![Output avi gif](https://github.com/joshtrivedi/Social-Distance-Detector/blob/master/social%20distance%20detection.gif)
+![Output avi gif](https://github.com/joshtrivedi/Social-Distance-Detector/blob/main/social%20distance%20detection.gif)
 
 # For GPU:
 You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/1fl7pOz_gx70KcsF8isMPagZL1TSv0dKr?usp=sharing)
