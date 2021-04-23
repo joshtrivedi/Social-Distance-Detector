@@ -25,6 +25,6 @@
 You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/1fl7pOz_gx70KcsF8isMPagZL1TSv0dKr?usp=sharing)
 
 ## Contacts:
-* **Created by:[Abdullah Shoumik](https://github.com/joshtrivedi)**
-* **Email:[abd.shoumik@gmail.com](https://josh.trivedi@gmail.com)**
-* **LinkedIn: [Abdullah Shoumik](https://www.linkedin.com/in/josh-trivedi/)**
+* **Created by:[Josh Trivedi](https://github.com/joshtrivedi)**
+* **Email:[josh.trivedi@gmail.com](https://josh.trivedi@gmail.com)**
+* **LinkedIn: [Josh Trivedi](https://www.linkedin.com/in/josh-trivedi/)**
